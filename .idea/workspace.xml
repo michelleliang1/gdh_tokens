@@ -2,8 +2,312 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9344a935-cbd5-42ad-9eb7-2a24f0646256" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/code-of-conduct.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/contributors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/css/jspsych.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/about/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/about/contributing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/about/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/about/support.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/core_library/jspsych-core.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/core_library/jspsych-data.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/core_library/jspsych-pluginAPI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/core_library/jspsych-randomization.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/core_library/jspsych-turk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/folder-setup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/folder-with-html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/githubreleases.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/jspsych-favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/jspsych-logo-no-text-mono.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/jspsych-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/palmer_stim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/progress_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/img/visual_search_example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/callbacks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/data.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/exclude-browser.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/experiment-options.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/fullscreen.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/media-preloading.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/mturk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/progress-bar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/record-browser-interactions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/timeline.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/overview/trial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/creating-a-plugin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-animation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-audio-button-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-audio-keyboard-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-audio-slider-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-call-function.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-categorize-animation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-categorize-html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-categorize-image.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-cloze.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-external-html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-free-sort.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-fullscreen.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-html-button-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-html-keyboard-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-html-slider-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-iat-html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-iat-image.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-image-button-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-image-keyboard-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-image-slider-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-rdk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-reconstruction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-resize.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-same-different-html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-same-different-image.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-serial-reaction-time-mouse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-serial-reaction-time.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-survey-html-form.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-survey-likert.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-survey-multi-choice.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-survey-multi-select.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-survey-text.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-video-button-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-video-keyboard-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-video-slider-response.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-visual-search-circle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-vsl-animate-occlusion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/jspsych-vsl-grid-scene.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/plugins/overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/tutorials/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/docs/tutorials/rt-task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/add-to-end-of-timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/conditional-and-loop-functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/data-add-properties.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/data-as-function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/data-from-timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/data-from-url.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/demo-flanker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/demo-simple-rt-task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/demos/demo_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/demos/demo_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/demos/demo_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/display-element-to-embed-experiment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/end-active-node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/end-experiment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/exclusions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/external_html/simple_consent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/of1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/of2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/of3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/om1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/om2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/om3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/yf1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/yf4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/yf5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/ym2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/ym3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/age/ym5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/backwardN.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/con1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/con2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/fixation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/happy_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/happy_face_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/happy_face_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/happy_face_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/inc1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/inc2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/normalN.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/redX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/ribbon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/sad_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/sad_face_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/sad_face_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/img/sad_face_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/js/snap.svg-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-RDK.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-animation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-audio-button-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-audio-keyboard-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-audio-slider-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-call-function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-categorize-animation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-categorize-html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-categorize-image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-cloze.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-free-sort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-fullscreen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-html-button-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-html-keyboard-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-html-slider-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-iat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-image-button-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-image-keyboard-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-image-slider-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-reconstruction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-resize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-same-different-html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-same-different-image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-serial-reaction-time-mouse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-serial-reaction-time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-survey-html-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-survey-likert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-survey-multi-choice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-survey-multi-select.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-survey-text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-video-button-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-video-keyboard-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-video-slider-response.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-visual-search-circle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-vsl-animate-occlusion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/jspsych-vsl-grid-scene.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/lexical-decision.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/manual-preloading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/pause-unpause.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/progress-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/sound/hammer.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/sound/sound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/sound/speech_blue.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/sound/speech_green.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/sound/speech_joke.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/sound/speech_red.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/sound/tone.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/timeline-variables-sampling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/timeline-variables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/examples/video/sample_video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/jspsych.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/mkdocs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-animation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-audio-button-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-audio-keyboard-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-audio-slider-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-call-function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-categorize-animation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-categorize-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-categorize-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-cloze.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-external-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-free-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-fullscreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-html-button-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-html-keyboard-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-html-slider-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-iat-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-iat-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-image-button-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-image-keyboard-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-image-slider-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-instructions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-rdk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-reconstruction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-same-different-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-same-different-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-serial-reaction-time-mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-serial-reaction-time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-survey-html-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-survey-likert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-survey-multi-choice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-survey-multi-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-survey-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-video-button-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-video-keyboard-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-video-slider-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-visual-search-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-vsl-animate-occlusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/jspsych-vsl-grid-scene.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/plugins/template/jspsych-plugin-template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych.data/datacollection.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych.data/datacolumn.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych.data/datamodule.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych.data/dataparameter.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych.data/interactions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych.pluginAPI/pluginapi.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych.randomization/randomziation.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych.utils/utils.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych/default-iti.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych/default-parameters.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych/endexperiment.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych/events.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych/loads.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych/progressbar.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych/timeline-variables.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/jsPsych/timelines.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/media/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/media/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/media/sample_video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/media/sound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-animation.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-audio-button-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-audio-keyboard-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-audio-slider-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-call-function.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-categorize-animation.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-categorize-html.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-categorize-image.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-cloze.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-free-sort.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-fullscreen.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-html-button-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-html-keyboard-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-html-slider-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-iat-html.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-iat-image.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-image-button-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-image-keyboard-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-image-slider-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-instructions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-rdk.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-reconstruction.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-resize.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-same-different-html.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-same-different-image.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-serial-reaction-time-mouse.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-serial-reaction-time.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-survey-html-form.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-survey-likert.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-survey-multi-choice.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-survey-multi-select.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-survey-text.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-video-button-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-video-keyboard-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-video-slider-response.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-visual-search-circle.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-vsl-animate-occlusion.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/plugins/plugin-vsl-grid-scene.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspsych/tests/testing-utils.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +367,26 @@
       <workItem from="1585884307695" duration="2520000" />
       <workItem from="1585887616774" duration="67000" />
       <workItem from="1585887866240" duration="1076000" />
+      <workItem from="1586852422772" duration="1593000" />
+      <workItem from="1586913122097" duration="207000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585887442205">
@@ -76,6 +395,15 @@
     <state x="239" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.839@0.23.1440.839" timestamp="1585885451783" />
     <state x="239" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.840@0.23.1440.840" timestamp="1585886696708" />
     <state x="192" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.841@0.23.1440.841" timestamp="1585887442205" />
+    <state x="274" y="39" key="CommitChangelistDialog2" timestamp="1586913506121">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="274" y="39" key="CommitChangelistDialog2/0.23.1440.837@0.23.1440.837" timestamp="1586852457679" />
+    <state x="274" y="39" key="CommitChangelistDialog2/0.23.1440.838@0.23.1440.838" timestamp="1586913506121" />
+    <state x="112" y="124" width="1157" height="626" key="DiffContextDialog" timestamp="1586852318196">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="112" y="124" width="1157" height="626" key="DiffContextDialog/0.23.1440.837@0.23.1440.837" timestamp="1586852318196" />
     <state width="1209" height="237" key="GridCell.Tab.-1.bottom" timestamp="1585886267135">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
@@ -180,6 +508,10 @@
       <screen x="0" y="23" width="1440" height="840" />
     </state>
     <state x="58" y="415" width="1180" height="209" key="GridCell.Tab.3.right/0.23.1440.840@0.23.1440.840" timestamp="1585886268797" />
+    <state x="430" y="155" key="RollbackChangesDialog" timestamp="1586852296788">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="430" y="155" key="RollbackChangesDialog/0.23.1440.837@0.23.1440.837" timestamp="1586852296788" />
     <state x="153" y="79" key="SettingsEditor" timestamp="1585886465677">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
@@ -193,6 +525,10 @@
       <screen x="0" y="23" width="1440" height="840" />
     </state>
     <state x="58" y="415" width="1180" height="225" key="dock-window-1/0.23.1440.840@0.23.1440.840" timestamp="1585886288599" />
+    <state x="355" y="184" width="670" height="676" key="search.everywhere.popup" timestamp="1586852353378">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="355" y="184" width="670" height="676" key="search.everywhere.popup/0.23.1440.837@0.23.1440.837" timestamp="1586852353378" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
